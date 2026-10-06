@@ -1,0 +1,15 @@
+{
+  "project_title": "European Earth Observation Market 2026",
+  "subtitle": "From Open Data to Commercial Intelligence",
+  "research_question": "How is value created across Europe's Earth observation industry, and where are the strongest opportunities for European commercial growth?",
+  "base_year": 2026,
+  "currency": "EUR",
+  "primary_geography": "Europe",
+  "methodology_notes": [
+    "Do not mix market datasets without recording scope and methodology.",
+    "Keep source provenance at row level.",
+    "Separate satellite/data providers from downstream analytics/application companies.",
+    "Do not infer causality from ESA/Copernicus participation.",
+    "Use confidence labels for incomplete company-level data."
+  ]
+}
