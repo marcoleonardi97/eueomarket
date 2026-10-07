@@ -1,0 +1,13 @@
+segment_id,segment_name,description,value_chain_layer
+SEG01,Optical EO data,High-resolution and multispectral optical imagery,EO data
+SEG02,SAR EO data,Synthetic aperture radar imagery and monitoring,EO data
+SEG03,Hyperspectral EO,Hyperspectral imaging and spectral analytics,EO data
+SEG04,Thermal EO,Thermal infrared and heat-monitoring data,EO data
+SEG05,Atmospheric monitoring,Greenhouse gas and atmospheric composition monitoring,EO data
+SEG06,EO cloud infrastructure,"Cloud storage, compute, APIs and data access",Data infrastructure
+SEG07,EO analytics,"AI/ML, processing, data fusion and derived information",Analytics
+SEG08,Agriculture,"EO applications for crop, land and agricultural management",Applications
+SEG09,Energy & infrastructure,EO applications for energy assets and infrastructure,Applications
+SEG10,Climate & environment,"Climate, forestry, water, biodiversity and environmental monitoring",Applications
+SEG11,Maritime,"Maritime surveillance, shipping and ocean monitoring",Applications
+SEG12,Security & defence,"Security, border, disaster and defence-related EO applications",Applications
