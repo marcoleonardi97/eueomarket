@@ -1,6 +1,8 @@
 # European Earth Observation Market 2026
 ## From Open Data to Commercial Intelligence
 
+https://marcoleonardi97.github.io/eueomarket/
+
 **Research question:** How is value created across Europe's Earth observation industry, and where are the strongest opportunities for European commercial growth?
 
 ### Repository structure
